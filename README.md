@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Personal Information
 
-You can use the [editor on GitHub](https://github.com/wangtian930712/wangtian930712.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Tian Wang. I'm a first-year PhD student in Informatics at University of Illinois, Urbana-Champaign. You can use the [editor on GitHub](https://github.com/wangtian930712/wangtian930712.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
